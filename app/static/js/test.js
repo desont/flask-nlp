@@ -1,0 +1,4 @@
+
+function bs(){alert("btn")
+}
+
